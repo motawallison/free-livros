@@ -125,6 +125,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Containers com Docker do Desenvolvimento a Producao](https://github.com/free-educa/books/blob/main/books/Containers%20com%20Docker%20do%20Desenvolvimento%20a%20Producao.pdf)
 
+-[Introdução à Linguagem SQL: Abordagem prática para iniciantes]([link para acessar](https://drive.google.com/file/d/1PQLbEeden9du4cxZpXknJDJp2FihBfRu/view?usp=sharing))
+
 ```markdown
 --- Big data / Data Science:
 ```
